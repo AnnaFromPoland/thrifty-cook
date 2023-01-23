@@ -1,49 +1,42 @@
 # Thrifty Cook - Code First Girls +masters Course Project
 
-Software Name: Thrifty Cook
-
 Version: 0.8.0
-
 Date: 20 SEP 2022
 
 ----------------------------------------------------
 
 # USER MANUAL TABLE OF CONTENTS
 
-1. Software Summary & Key Features 👀
-2. System Requirements ☝️
+1. Software Description & Key Features 👀
+2. System Requirements 💯
 3. Set-up Guide 🐣
 4. How-to Tutorials 🎬
 - How to find a recipe
 - How to add recipe/s to the shopping list
 - How to view, edit & clear shopping list
 - How to add a recipe to favourites (starred)
-5. FAQs 🙋🏽‍♂️
-6. Additional Resources 🧩
-7. Contributors & Support 💬
+5. Contributors & Support 💬
 
 ----------------------------------------------------
 
-## Software summary 👀
+## Software Description 👀
 
-Thrifty Cook is a grocery list generator which will assist you in meal planning & grocery shopping. You can find & choose the recipes you wish to cook in the upcoming days and Thrifty Cook will return the shopping list of ingredients you need to cook the meals you’ve selected. You can also add more frequently used recipes to favourites (“Starred Recipes”).
+Thrifty Cook is a grocery list generator which will assist your meal planning & grocery shopping. You can browse & select the recipes you wish to cook in the upcoming days and Thrifty Cook will return a shopping list of ingredients required to make the meals you’ve selected. You can save more frequently used recipes as favourites.
 
 ## Key Features ⭐
 
-- Search through 5000+ recipes
+- Browse 5000+ recipes
 - Select & view a recipe
-- Select a recipe and add it to your shopping list
-- Save your favourite recipes in starred recipes list
+- Add / remove ingredients of the chosen recipe to your "Shopping Cart" list
+- Save / remove your favourite recipes in "Starred Recipes" list
 
 ----------------------------------------------------
 
-## System Requirements ☝️
+## System Requirements 💯
 
-1. IDE such as Virtual Studio Code
-2. Node.js package manager (npm)
-3. Expo (to render the mobile application)
-
-(See point #6 "Additional Resources" for installation links & guides)
+1. IDE such as Virtual Studio Code - [Download VS Code for Free](https://code.visualstudio.com/Download)
+2. Node.js package manager (npm) - [Download Node.js for Free](https://nodejs.org/en/download)
+3. Expo (to render the mobile application) - [Download Expo for Free](https://docs.expo.dev/get-started/installation)
 
 ## Setup Guide 🐣
 
@@ -98,20 +91,6 @@ You can view your favourite recipes list any time in the “Starred” tab.
 #### How to remove a recipe from favourites (starred)?
 
 Go to “Starred” tab to view your favourite recipes list. To remove a recipe from this list, click the star icon.
-
-----------------------------------------------------
-
-## Additional Resources 🧩
-
-IDE Installation: [Download Visual Studio Code](https://code.visualstudio.com/Download)
-
-Node.js installation: [Download Node.js](https://nodejs.org/en/download)
-
-Expo installation: [Download Expo](https://docs.expo.dev/get-started/installation)
-
-## FAQs 🙋🏽‍♂️
-
-Will be added when we receive questions from Thrifty Cook users.
 
 ----------------------------------------------------
 
