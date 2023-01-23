@@ -1,7 +1,7 @@
 # Thrifty Cook - Code First Girls +masters Course Project
 
-Version: 0.8.0
-Date: 20 SEP 2022
+Version: 0.8.0  
+Date: 20 SEP 2022  
 
 ----------------------------------------------------
 
@@ -33,9 +33,9 @@ Thrifty Cook is a grocery list generator which will assist your meal planning & 
 
 ## Project Documentation & Video Presentation 🎬
 
-[Short Project Presentation .PDF](https://github.com/AnnaFromPoland/thrifty-cook/blob/main/documentation/thrifty-cook.pdf)
-[Project Presentation Video .MP4](https://github.com/AnnaFromPoland/thrifty-cook/blob/main/documentation/thrifty-cook-app-presentation.mp4)
-[Full Project Documentation .MD](https://github.com/AnnaFromPoland/thrifty-cook/blob/main/documentation/DOCUMENTATION.md)
+[Short Project Presentation .PDF](https://github.com/AnnaFromPoland/thrifty-cook/blob/main/documentation/thrifty-cook.pdf)  
+[Project Presentation Video .MP4](https://github.com/AnnaFromPoland/thrifty-cook/blob/main/documentation/thrifty-cook-app-presentation.mp4)  
+[Full Project Documentation .MD](https://github.com/AnnaFromPoland/thrifty-cook/blob/main/documentation/DOCUMENTATION.md)  
 
 ----------------------------------------------------
 
