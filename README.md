@@ -8,14 +8,15 @@ Date: 20 SEP 2022
 # USER MANUAL TABLE OF CONTENTS
 
 1. Software Description & Key Features 👀
-2. System Requirements 💯
-3. Set-up Guide 🐣
-4. How-to Tutorials 🎬
+2. Documentation & Video Presentation 🎬
+3. System Requirements 💯
+4. Set-up Guide 🐣
+5. How-to Tutorials 🎬
 - How to find a recipe
 - How to add recipe/s to the shopping list
 - How to view, edit & clear shopping list
 - How to add a recipe to favourites (starred)
-5. Contributors & Support 💬
+6. Contributors & Support 💬
 
 ----------------------------------------------------
 
@@ -29,6 +30,12 @@ Thrifty Cook is a grocery list generator which will assist your meal planning & 
 - Select & view a recipe
 - Add / remove ingredients of the chosen recipe to your "Shopping Cart" list
 - Save / remove your favourite recipes in "Starred Recipes" list
+
+## Project Documentation & Video Presentation 🎬
+
+[Short Project Presentation .PDF](https://github.com/AnnaFromPoland/thrifty-cook/blob/main/documentation/thrifty-cook.pdf)
+[Project Presentation Video .MP4](https://github.com/AnnaFromPoland/thrifty-cook/blob/main/documentation/thrifty-cook-app-presentation.mp4)
+[Full Project Documentation .MD](https://github.com/AnnaFromPoland/thrifty-cook/blob/main/documentation/DOCUMENTATION.md)
 
 ----------------------------------------------------
 
@@ -59,7 +66,7 @@ npm start
 
 ----------------------------------------------------
 
-## How-to Tutorials 🎬
+## How-to Tutorials 📑
 
 #### How to find a recipe?
 
